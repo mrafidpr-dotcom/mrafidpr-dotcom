@@ -1,8 +1,11 @@
-##<h1 align="center">Hi there 👋 I'm Muhamad Rafi<h1>
-Saya Belajar di STIKOM EL RAHMA
+## <h1 align="center">Hi there 👋 I'm Muhamad Rafi <h1>
+  
+<h2 align="center">
+  🎓 Studying at STIKOM El Rahma
+</h2>
 
 <p align="center">
-  💻 Developer | 🚀 Learner | 🎯 Always Improving  
+💻 Developer | 🚀 Learner | 🎯 Always Improving  
 </p>
 
 ---
