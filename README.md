@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Muhamad Rafi
+##<h1 align="center">Hi there 👋 I'm Muhamad Rafi<h1>
 Saya Belajar di STIKOM EL RAHMA
 
 <p align="center">
