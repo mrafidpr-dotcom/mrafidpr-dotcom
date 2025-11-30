@@ -1,5 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Muhamad Rafi
+Saya Belajar di STIKOM EL RAHMA
 
+<p align="center">
+  💻 Developer | 🚀 Learner | 🎯 Always Improving  
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on personal projects  
+- 🌱 Learning: Web Development & Git  
+- 🎮 Hobby: Gaming & exploring new tech  
+
+### 🛠 Tech Tools 
+- Git & GitHub
+- VS Code
+
+- ### 📫 Contact
+- Instagram: **@mrafidpr_**
+- Gmail: **rafimhmd632@gmail.com**
+
+  
 <!--
 **mrafidpr-dotcom/mrafidpr-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
